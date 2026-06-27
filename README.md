@@ -1,2 +1,18 @@
 # Python Mini Projects
-So in My way to learn python i chossed some mini projects to do and i am really happy to share this mini project with you 
+
+This repository contains mini projects that I built while learning Python.
+
+## Projects
+
+- 🎯 Number Guessing Game
+- ✂️ Rock Paper Scissors
+
+## Goals
+
+- Improve problem-solving skills
+- Practice Python fundamentals
+- Build a strong programming portfolio
+
+## Author
+
+Hichem Dali
