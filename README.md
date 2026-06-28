@@ -1,46 +1,64 @@
-# 🐍 Python Mini Projects
+# 🚀 Mini Projects Collection
 
-Welcome to my Python Mini Projects repository!
+Welcome to my Mini Projects repository!
 
-This repository contains small projects that I built while learning Python.
+This repository contains various projects that I have built while learning programming and software development.
 
-My goal is to improve my programming and problem-solving skills by creating practical projects.
+The projects cover different programming languages and technologies, helping me improve my problem-solving skills and gain practical experience.
 
-## Projects
+## 📂 Project Categories
 
-### 🎯 Number Guessing Game
+### 🐍 Python Projects
+- 🎯 Number Guessing Game
+- ✂️ Rock Paper Scissors
+- 🧮 Simple Calculator
+- 🔐 Login System *(coming soon)*
+- 📋 To-Do List *(coming soon)*
 
-A game where the player must guess a randomly generated number.
+### 📊 MATLAB Projects
+- 🎓 ENPC Semester 02 Student Assistant
+- More projects coming soon...
 
-### ✂️ Rock Paper Scissors
+### 🌐 Web Development Projects *(coming soon)*
+- HTML/CSS websites
+- JavaScript applications
+- Full Stack projects
 
-A classic game where the player competes against the computer.
+## 🎯 Goals
 
-## Current Learning Journey
+- Improve my programming skills
+- Build a strong GitHub portfolio
+- Develop real-world projects
+- Become a Full Stack Developer
+- Learn new technologies and frameworks
+
+## 📚 Current Learning Journey
 
 I am currently learning:
 
 - Python
+- MATLAB
 - HTML
 - CSS
-- JavaScript (soon)
+- JavaScript
 - Full Stack Development
 
-## Goals
+## 🔮 Future Plans
 
-- Improve Python skills
-- Build a strong GitHub portfolio
-- Become a Full Stack Developer
+- Create larger and more complex applications
+- Learn databases and backend development
+- Build responsive web applications
+- Explore cybersecurity and software engineering
 
-## Future Projects
+## 🛠️ Technologies Used
 
-- Calculator
-- To-Do List
-- Student Grade Manager
-- Login System
-- Web Applications
+- Python
+- MATLAB
+- HTML
+- CSS
+- JavaScript
 
-## Author
+## 👨‍💻 Author
 
 **Hichem Dali**
 
