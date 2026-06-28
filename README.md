@@ -12,7 +12,7 @@ The projects cover different programming languages and technologies, helping me 
 - 🎯 Number Guessing Game
 - ✂️ Rock Paper Scissors
 - 🧮 Simple Calculator
-- 🔐 Login System *(coming soon)*
+- 🔐 Login System 
 - 📋 To-Do List *(coming soon)*
 
 ### 📊 MATLAB Projects
