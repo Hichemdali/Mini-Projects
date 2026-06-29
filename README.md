@@ -13,7 +13,7 @@ The projects cover different programming languages and technologies, helping me 
 - ✂️ Rock Paper Scissors
 - 🧮 Simple Calculator
 - 🔐 Login System 
-- 📋 To-Do List *(coming soon)*
+- 📋 To-Do List 
 
 ### 📊 MATLAB Projects
 - 🎓 ENPC Semester 02 Student Assistant
