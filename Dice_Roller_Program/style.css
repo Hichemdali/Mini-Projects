@@ -1,0 +1,25 @@
+body{
+    display: grid;
+    justify-content:center;
+    background-color: #d6e077;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+}
+#container{
+    background-color: #77e07a;
+    padding: 10px;
+    border-style:double 2px  ;
+    border-color: black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+
+}
+#button{
+    font-size: 1.2em;
+    width:200px ;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+
+}
