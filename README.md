@@ -2,19 +2,21 @@
 
 Welcome to my **Mini Projects** repository!
 
-This repository contains various projects that I have built while learning programming and software development.
+This repository contains small projects and exercises that I build while learning **programming and software development**.
 
-The projects cover different programming languages and technologies, helping me improve my problem-solving skills and gain practical experience.
+Each project helps me practice programming concepts, improve my problem-solving skills, and gain hands-on experience with different technologies.
+
+---
 
 ## 📂 Project Categories
 
 ### 🐍 Python Projects
 
-* 🎯 Number Guessing Game
-* ✂️ Rock Paper Scissors
-* 🧮 Simple Calculator
-* 🔐 Login System
-* 📋 To-Do List
+* 🎯 [Number Guessing Game](./Python/Number-Guessing-Game)
+* ✂️ [Rock Paper Scissors](./Python/Rock-Paper-Scissors)
+* 🧮 [Simple Calculator](./Python/Simple-Calculator)
+* 🔐 [Login System](./Python/Login-System)
+* 📋 [To-Do List](./Python/To-Do-List)
 
 ### 📊 MATLAB Projects
 
@@ -24,42 +26,72 @@ The projects cover different programming languages and technologies, helping me 
 ### 🌐 JavaScript / Web Development Projects
 
 * 🌡️ Temperature Conversion Program
-* More JavaScript projects coming soon...
+* 🎲 Dice Roller
+* More projects coming soon...
+
+---
 
 ## 🎯 Goals
 
-* Improve my programming skills
-* Build a strong GitHub portfolio
-* Develop real-world projects
-* Become a Full Stack Developer
-* Learn new technologies and frameworks
+* 🧠 Improve my programming and problem-solving skills
+* 💻 Build a strong GitHub portfolio
+* 🛠️ Gain experience by building real projects
+* 🌐 Become a Full Stack Developer
+* 🚀 Learn new technologies and frameworks
+* 📚 Apply what I learn through practical projects
+
+---
 
 ## 📚 Current Learning Journey
 
-I am currently learning:
-
-* Python
-* MATLAB
-* HTML
-* CSS
-* JavaScript
-* Full Stack Development
-
-## 🔮 Future Plans
-
-* Create larger and more complex applications
-* Learn databases and backend development
-* Build responsive web applications
-* Explore cybersecurity and software engineering
-* Build full-stack applications
-
-## 🛠️ Technologies Used
+I am currently learning and practicing:
 
 * 🐍 Python
 * 📊 MATLAB
 * 🌐 HTML
 * 🎨 CSS
 * ⚡ JavaScript
+* 🔧 DOM Manipulation
+* 💻 Web Development
+* 🚀 Full Stack Development
+
+---
+
+## 🔮 Future Plans
+
+As I continue learning, I plan to:
+
+* Build larger and more complex applications
+* Learn backend development
+* Learn databases and APIs
+* Build responsive web applications
+* Explore cybersecurity
+* Improve my software engineering skills
+* Build full-stack applications
+
+---
+
+## 🛠️ Technologies
+
+| Technology   | Purpose                       |
+| ------------ | ----------------------------- |
+| 🐍 Python    | Programming & Problem Solving |
+| 📊 MATLAB    | Scientific Computing          |
+| 🌐 HTML      | Web Structure                 |
+| 🎨 CSS       | Web Styling                   |
+| ⚡ JavaScript | Web Interactivity & Logic     |
+
+---
+
+## 📈 Progress
+
+This repository is a record of my programming journey.
+
+Projects may start simple, but each one represents something new that I learned and practiced.
+
+> **Learn → Build → Make mistakes → Improve → Repeat.** 🚀
+
+---
 
 ## 👨‍💻 Author
 
