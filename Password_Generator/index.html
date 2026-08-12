@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Random Number Generator</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="bigcontainer">
+            <h1 class="forpaddingandmargin"> Password Generator</h1>
+            <div class="forpaddingandmargin">
+                <label for="iuc">includeUpperCases</label>
+                <input type="checkbox" id="iuc">
+            </div>
+            <div class="forpaddingandmargin">
+                <label for="ilc">includeLowerCases</label>
+                <input type="checkbox" id="ilc">
+            </div>
+            <div class="forpaddingandmargin">
+                <label for="iN">includeNumbers</label>
+                <input type="checkbox" id="iN">
+            </div>
+            <div class="forpaddingandmargin">
+                <label  for="is">includeSymbols</label>
+                <input type="checkbox" id="is">
+            </div>
+            <div class="forpaddingandmargin">
+                <label for="length">Length Of Password</label>
+                <input type="Number" id="length">
+            </div>
+            <button id="buttonclear">Clear</button>
+            <br>
+            <button id="button">Submit</button>
+            <br>
+            <h2 class="forpaddingandmargin" id="generatepassword"></h2>
+        </div>
+        <script src="dom.js"></script>
+    </body>
+</html>
