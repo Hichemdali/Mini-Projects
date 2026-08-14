@@ -51,9 +51,6 @@ While building this project, I practiced:
 - Copy generated numbers to the clipboard
 - Add dark mode
 
-## Screenshot
-
-_Add a screenshot of the project here._
 
 ## License
 
