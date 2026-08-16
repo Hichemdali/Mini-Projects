@@ -1,41 +1,95 @@
-body{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    justify-content: center;
-    display: grid;
-    background-color: #319450;
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
 }
-h1{
-    background-color: #b6cbe0;
-    justify-content: center;
-    display: flex;
-    height: 2em;
-    width: 15em;
-    border-style: groove ;
-    border-radius: 1em;
 
+body{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:20px;
+    background:linear-gradient(135deg,#5B21B6,#312E81);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+
 #container{
-    background-color:#b6cbe0 ;
-    display: grid;
-    justify-content: center;
-    width: 25em;
-    height: 10em;
-    font-size: 1.2em;
-    padding: 5px;
-    margin:5px;
-    border-radius: 10px;
+    width:100%;
+    max-width:430px;
+    background:#FFFFFF;
+    padding:30px;
+    border-radius:20px;
+    text-align:center;
+    box-shadow:0 15px 30px rgba(0,0,0,.3);
 }
-input{
-    width: 400px;
-    height: 50px;
-    padding: 5px;
-    margin:5px;
+
+#hh1{
+    margin-bottom:25px;
+}
+
+#h1{
+    color:#5B21B6;
+    font-size:3.5rem;
+}
+
+label{
+    display:block;
+    text-align:left;
+    margin:12px 0 6px;
+    color:#444;
+    font-weight:bold;
+}
+
+#max,
+#min{
+    width:100%;
+    padding:12px;
+    border:2px solid #D8B4FE;
+    border-radius:10px;
+    font-size:17px;
+    outline:none;
+    transition:.2s;
+}
+
+#max:focus,
+#min:focus{
+    border-color:#7C3AED;
 }
 
 button{
-    width: 407.5px;
-    height: 50px;
-    padding: 5px;
-    margin:5px;
-    font-size: 1.5em;
+    width:100%;
+    margin-top:25px;
+    padding:14px;
+    background:#7C3AED;
+    color:white;
+    border:none;
+    border-radius:10px;
+    font-size:18px;
+    font-weight:bold;
+    cursor:pointer;
+    transition:.2s;
+}
+
+button:hover{
+    background:#6D28D9;
+}
+
+button:active{
+    transform:scale(.97);
+}
+
+@media(max-width:480px){
+
+    #container{
+        padding:20px;
+    }
+
+    #h1{
+        font-size:2.8rem;
+    }
+
+    button{
+        font-size:16px;
+    }
 }
